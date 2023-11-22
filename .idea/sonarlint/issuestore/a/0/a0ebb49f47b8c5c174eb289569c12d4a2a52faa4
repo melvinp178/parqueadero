@@ -1,0 +1,17 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8÷æß÷¾1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8÷æß÷¾1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8øæß÷¾1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8øæß÷¾1
+o
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8€çß÷¾1
+L
+java:S1874/"/Remove this use of "getById"; it is deprecated.(åˆÇÛ8çß÷¾1
+Q
+java:S18740"/Remove this use of "getById"; it is deprecated.(ã¥Âÿÿÿÿÿ8çß÷¾1
+Q
+java:S18741"/Remove this use of "getById"; it is deprecated.(ÕÛ‰áúÿÿÿÿ8çß÷¾1

@@ -1,0 +1,14 @@
+
+_
+java:S1128"=Remove this unused import 'com.home.demo.entity.Parqueadero'.(¼öÑıÿÿÿÿ8äéÙõ¾1
+`
+java:S1128">Remove this unused import 'com.home.demo.entity.TipoVehiculo'.(§ıÖûÿÿÿÿ8æéÙõ¾1
+[
+java:S1128"9Remove this unused import 'com.home.demo.entity.Usuario'.(Óı˜–ıÿÿÿÿ8çéÙõ¾1
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8èéÙõ¾1
+X
+java:S1128
+";Remove this unused import 'jakarta.persistence.JoinColumn'.(İçÆ•8êéÙõ¾1
+\
+java:S1128":Remove this unused import 'jakarta.persistence.ManyToOne'.(áîÖãùÿÿÿÿ8ëéÙõ¾1

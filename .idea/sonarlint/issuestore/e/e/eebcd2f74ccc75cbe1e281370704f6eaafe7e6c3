@@ -1,0 +1,11 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¨ÒÂõ¾1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8±ÒÂõ¾1
+W
+java:S1128":Remove this unused import 'com.home.demo.dto.VehiculoDto'.(åÉ®„8§…”÷¾1
+W
+java:S1128":Remove this unused import 'com.home.demo.entity.Vehiculo'.(¤’¯Ü8§…”÷¾1
+e
+java:S1128"HRemove this unused import 'com.home.demo.repository.VehiculoRepository'.(ó·€Ë8§…”÷¾1
